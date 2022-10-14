@@ -15,7 +15,7 @@ export const ChatBody: React.FC<ChatBodyProps> = ({ }) => {
 
                <RightChatBubble />
 
-            <ChatInput />
+               <ChatInput />
         </section>
     );
 }
